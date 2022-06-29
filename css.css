@@ -1,0 +1,47 @@
+.class1{
+
+    font-size: 18px;
+    color: red;
+    font-style: italic;
+}
+
+.class2{
+
+    color: darkred;
+    font-size: 16px;
+}
+
+.class3{
+
+    text-decoration-line: line-through;
+    color: darkred;
+}
+
+.class4{
+
+    background-color: yellow;
+}
+
+.class5{
+
+    color:darkred;
+    font-style: italic;
+    text-decoration-line: underline;
+}
+
+.class6{
+
+    color: darkred;
+    letter-spacing: 4px;
+}
+
+.class7{
+    font-size: 14px;
+    color: darkred;
+}
+
+.class8{
+    color: darkred;
+    text-decoration-line: underline;
+    background-color: yellow;
+}
